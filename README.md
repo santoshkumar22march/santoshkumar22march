@@ -1,8 +1,5 @@
-# 👋 Hi, I’m @santoshkumar22march
+# 👋 Hi, I’m Santosh Kumar
 
-<p align="center">
-  <img src="[Optional: URL to a relevant banner image - e.g., abstract code/AI graphic]" width="800" alt="Profile Banner">
-</p>
 
 ## About Me
 
@@ -24,7 +21,7 @@ I'm a highly motivated and dedicated individual on an accelerated path to becomi
     *   Database fundamentals with **PostgreSQL** and **SQLAlchemy**.
     *   Containerizing applications with **Docker**.
     *   Exploring foundational **Deep Learning concepts** with **PyTorch**.
-    *   *(Just built my first project: A [CLI Task Manager]([Link to your CLI Task Manager Repo - Optional])!)*
+    *   *(Just built my first project: A [CLI Task Manager]([https://github.com/santoshkumar22march/CLI_Task_Manager])!)*
 
 *   💞️ **I’m looking to collaborate on:**
     *   Projects that combine AI/ML models with practical web applications.
@@ -32,8 +29,8 @@ I'm a highly motivated and dedicated individual on an accelerated path to becomi
     *   Opportunities to learn from experienced developers and contribute meaningful code.
 
 *   📫 **How to reach me:**
-    *   Connect with me on [**LinkedIn**]([Your LinkedIn Profile URL - Highly Recommended])
-    *   Email me at: `[Your Email Address - Optional]`
+    *   Connect with me on [**LinkedIn**]([https://www.linkedin.com/in/santosh-kumar-cseiot/])
+    *   Email me at: `[santoshkumaraidev@gmail.com]`
     *   For project-specific questions, please open an issue on the relevant repository.
 
 *   😄 **Pronouns:** `[He/Him or They/Them or Your Pronouns]`
