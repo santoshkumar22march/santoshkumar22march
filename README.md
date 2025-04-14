@@ -21,7 +21,7 @@ I'm a highly motivated and dedicated individual on an accelerated path to becomi
     *   Database fundamentals with **PostgreSQL** and **SQLAlchemy**.
     *   Containerizing applications with **Docker**.
     *   Exploring foundational **Deep Learning concepts** with **PyTorch**.
-    *   *(Just built my first project: A [CLI Task Manager]([https://github.com/santoshkumar22march/CLI_Task_Manager])!)*
+    *   *(Just built my first project: A [CLI Task Manager]: https://github.com/santoshkumar22march/CLI_Task_Manager
 
 *   💞️ **I’m looking to collaborate on:**
     *   Projects that combine AI/ML models with practical web applications.
@@ -29,7 +29,7 @@ I'm a highly motivated and dedicated individual on an accelerated path to becomi
     *   Opportunities to learn from experienced developers and contribute meaningful code.
 
 *   📫 **How to reach me:**
-    *   Connect with me on [**LinkedIn**]([https://www.linkedin.com/in/santosh-kumar-cseiot/])
+    *   Connect with me on [**LinkedIn**]: https://www.linkedin.com/in/santosh-kumar-cseiot/
     *   Email me at: `[santoshkumaraidev@gmail.com]`
     *   For project-specific questions, please open an issue on the relevant repository.
 
