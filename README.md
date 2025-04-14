@@ -33,7 +33,6 @@ I'm a highly motivated and dedicated individual on an accelerated path to becomi
     *   Email me at: `[santoshkumaraidev@gmail.com]`
     *   For project-specific questions, please open an issue on the relevant repository.
 
-*   😄 **Pronouns:** `[He/Him or They/Them or Your Pronouns]`
 
 *   ⚡ **Fun fact:** My current learning sprint involves converting large amounts of caffeine and curiosity into functional code! I'm fascinated by how quickly abstract AI concepts can be turned into tangible tools.
 
